@@ -34,7 +34,7 @@ Projet réalisé dans le cadre de ma formation : reproduction en HTML/CSS de la 
 - Mettre la page en responsive design
 
 
-🚀 Démo en ligne 👉 lien GitHub Pages : 
+🚀 Démo en ligne 👉 lien GitHub Pages : https://fm35-ux.github.io/travel-agency-homepage/
 
 
 ✨ Auteur
