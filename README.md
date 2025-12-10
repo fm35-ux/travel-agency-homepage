@@ -36,6 +36,9 @@ Projet réalisé dans le cadre de ma formation : reproduction en HTML/CSS de la 
 
 🚀 Démo en ligne 👉 lien GitHub Pages : https://fm35-ux.github.io/travel-agency-homepage/
 
+⚠️​ _Les cards et les liens ne fonctionnent pas, normal : l’agence est totalement fictive !_ 😉​
+
+
 
 ✨ Auteur
 Fanny — En reconversion vers le métier de testeuse logicielle  
